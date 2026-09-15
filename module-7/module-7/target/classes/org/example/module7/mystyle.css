@@ -1,0 +1,29 @@
+/* Garrett Woods Module 7 */
+
+/* creates the class for the rectangle */
+.border-rectangle{
+    -fx-fill: transparent;
+    -fx-stroke: black;
+    -fx-stroke-width: 10px
+}
+
+/* creates the class for the white circle */
+.white-circle {
+    -fx-fill: white;
+    -fx-stroke: black;
+    -fx-stroke-width: 2px;
+}
+
+/* creates the ID for the red circle */
+#red-circle {
+    -fx-fill: red;
+    -fx-stroke: black;
+    -fx-stroke-width: 2px;
+}
+
+/* creates the ID for the green circle */
+#green-circle {
+    -fx-fill: green;
+    -fx-stroke: black;
+    -fx-stroke-width: 2px;
+}
